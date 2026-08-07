@@ -1,4 +1,12 @@
 {
   "buildCommand": "npm run build",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "influencerinsurance.co.nz" }],
+      "destination": "https://www.influencerinsurance.co.nz/:path*",
+      "permanent": true
+    }
+  ]
 }

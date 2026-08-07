@@ -1,5 +1,5 @@
 # Influencer Insurance — influencerinsurance.co.nz
-# Last updated: 2026-05-10
+# Last updated: 2026-08-07
 # Format: llms.txt v1 (https://llmstxt.org)
 
 > Influencer Insurance is New Zealand's specialist insurance referral service for content creators, social media influencers, and digital entrepreneurs. We connect creators with licensed NZ insurance advisers and brokers who understand the unique risks of the creator economy.
@@ -28,165 +28,166 @@ We serve content creators and social media influencers across all major platform
 - **Financial Influencers (Finfluencers)** — creators discussing investing, KiwiSaver, personal finance and crypto
 - **Outdoor & Adventure Creators** — tramping, mountain biking, surfing, kayaking and extreme sport content creators
 - **UGC Creators** — user-generated content creators producing content for brands without public-facing channels
+- **Real Estate & Property Creators** — home renovation vloggers, interior styling influencers, property market commentators
+- **Parenting & Family Creators** — parenting bloggers, family YouTubers, mummy and daddy content creators
+- **Pet & Animal Creators** — pet influencers, animal content creators, equestrian and dog lifestyle accounts
+- **Music & Entertainment Creators** — musicians, DJs, bands, and live performance creators
+- **Education & eLearning Creators** — online course creators, educational YouTubers, tutors and eLearning developers
+- **Sustainable Living & Eco Creators** — sustainability influencers, zero-waste creators and environmental advocates
 
 ## Insurance Coverage Types
 
 ### Public Liability Insurance
 Public liability covers a creator for third-party property damage or personal injury caused during content creation activities. This is essential for creators who film at third-party locations, run events, brand activations, pop-ups, or workshops. Cover typically starts from $25/month. Key scenarios: camera tripod damages venue property during a brand shoot; a fan is injured at a creator meet-and-greet; a drone falls and damages a car during a travel vlog shoot.
 
-URL: https://influencerinsurance.co.nz/coverage/public-liability/
+URL: https://www.influencerinsurance.co.nz/coverage/public-liability/
 
 ### Equipment & Gear Insurance
 Equipment cover protects cameras, drones, lenses, laptops, audio gear, lighting rigs, and other production equipment against theft, accidental damage, and loss. Essential for any creator with significant kit investment. Cover typically starts from $25/month. Key scenarios: camera stolen from a hire car; drone crashes into the sea; laptop with all footage is dropped and destroyed; microphone damaged at a live recording event.
 
-URL: https://influencerinsurance.co.nz/coverage/equipment-gear/
+URL: https://www.influencerinsurance.co.nz/coverage/equipment/
 
 ### Cyber & Privacy Insurance
 Cyber insurance covers losses arising from hacked accounts, unauthorised access, data breaches, ransomware attacks and cyber extortion. Critical for creators with large followings, subscription platforms, or mailing lists. Cover typically starts from $30/month. Key scenarios: Instagram account hacked and ransomed; mailing list data leaked; creator's OnlyFans account compromised; phishing attack results in PayPal account drain.
 
-URL: https://influencerinsurance.co.nz/coverage/cyber-privacy/
+URL: https://www.influencerinsurance.co.nz/coverage/cyber/
 
 ### Professional Indemnity Insurance
 Professional indemnity (PI) covers creators against claims that their content, advice, or professional services caused a client or third party financial loss. Particularly important for finfluencers, health and wellness creators, and creators providing paid consultancy. Cover typically starts from $43/month. Key scenarios: brand alleges influencer's post breached the sponsorship contract terms; fitness creator's advice leads to a follower injury; sponsored product fails to perform as described in the content.
 
-URL: https://influencerinsurance.co.nz/coverage/professional-indemnity/
+URL: https://www.influencerinsurance.co.nz/coverage/professional-indemnity/
 
 ## NZ Regulatory Context for Content Creators
 
 ### Fair Trading Act 1986
-The Commerce Commission enforces influencer disclosure obligations under the Fair Trading Act 1986. Creators must clearly disclose any commercial relationship (paid posts, gifted products, affiliate arrangements) to avoid misleading consumers. Fines can reach $200,000 per offence for individuals and $600,000 for companies. The Commerce Commission's influencer guidance (published 2022, updated 2024) sets out minimum disclosure standards. Professional indemnity insurance can cover legal defence costs if a disclosure complaint is made.
+The Commerce Commission enforces influencer disclosure obligations under the Fair Trading Act 1986. Creators must clearly disclose any commercial relationship (paid posts, gifted products, affiliate arrangements) to avoid misleading consumers. Fines can reach $200,000 per offence for individuals and $600,000 for companies. Professional indemnity insurance can cover legal defence costs if a disclosure complaint is made.
 
 ### Privacy Act 2020
 Creators who collect subscriber email addresses, run competitions, or operate membership platforms have obligations under the Privacy Act 2020. The Act establishes 13 information privacy principles governing the collection, storage, use and disclosure of personal information. Data breaches must be reported to the Privacy Commissioner if they are likely to cause serious harm. Cyber insurance typically covers Privacy Act breach response costs, including notification and remediation.
 
 ### Financial Markets Conduct Act 2013
-Financial influencers (finfluencers) who discuss specific investment products, KiwiSaver funds, or provide advice that could be construed as financial advice must take particular care. The Financial Markets Authority (FMA) has issued warnings to finfluencers who provide financial advice without a licence. The advisers we refer enquiries to are licensed Financial Advice Providers (FAPs) regulated under FMCA. Our site itself is not regulated under FMCA — we are an information and referral service only.
+Financial influencers who discuss specific investment products or KiwiSaver funds must take particular care. The Financial Markets Authority (FMA) has issued warnings to finfluencers who provide financial advice without a licence. The advisers we refer enquiries to are licensed Financial Advice Providers (FAPs) regulated under FMCA. Our site itself is not regulated under FMCA — we are an information and referral service only. We refer enquiries to Registered Financial Service Providers.
+
+### AI-Generated Content
+AI content tools introduce intellectual property, disclosure, and accuracy risks for creators. Content generated by AI tools may inadvertently reproduce copyrighted material or contain factual errors. Professional indemnity is the primary protection if an AI-related content dispute arises.
 
 ### CAA Drone Rules
-Travel and outdoor creators who use drones in their content must comply with Civil Aviation Authority (CAA) rules. Drones over 250g require registration. Flights within controlled airspace require ATC clearance. Commercial drone operations require an operator certificate in some cases. Public liability insurance covers third-party damage caused by drone incidents.
+Travel and outdoor creators who use drones must comply with Civil Aviation Authority (CAA) rules. Drones over 250g require registration. Commercial drone operations require an operator certificate in some cases. Public liability insurance covers third-party damage caused by drone incidents.
 
-### ICNZ / Insurance Council of NZ
-The Insurance Council of New Zealand (ICNZ) sets consumer protection standards for the NZ insurance market. The advisers we work with operate under ICNZ-aligned practices.
+### Greenwashing Obligations
+The Commerce Commission increasingly monitors misleading environmental claims (greenwashing). Sustainability creators who endorse eco-products should ensure endorsed claims are substantiated. Professional indemnity covers legal defence costs if a greenwashing complaint is made.
 
 ## Site Structure and Pages
 
 ### Homepage
-URL: https://influencerinsurance.co.nz/
+URL: https://www.influencerinsurance.co.nz/
 Overview of the service, creator types covered, coverage types, trust signals, and quote form entry point.
 
 ### Quote Page
-URL: https://influencerinsurance.co.nz/quote/
+URL: https://www.influencerinsurance.co.nz/quote/
 The primary lead-capture page. Includes a quote form (creator type, cover needed, audience size, name, email, phone), process steps, coverage tiles, and trust signals. All submissions are routed to a licensed adviser within 1 business day.
 
 ### Coverage Hub
-URL: https://influencerinsurance.co.nz/coverage/
+URL: https://www.influencerinsurance.co.nz/coverage/
 Overview of all four coverage types available to NZ content creators, with links to individual coverage pages.
 
 ### Creator Types Hub
-URL: https://influencerinsurance.co.nz/creators/
-Overview of all 14 creator type categories with links to individual creator type pages.
+URL: https://www.influencerinsurance.co.nz/creators/
+Overview of all 20 creator type categories with links to individual creator type pages.
 
 ### Blog / Guides Hub
-URL: https://influencerinsurance.co.nz/blog/
-20 in-depth articles covering influencer insurance, NZ regulatory obligations, equipment cover, cyber risk and creator business topics.
+URL: https://www.influencerinsurance.co.nz/blog/
+24 in-depth articles covering influencer insurance, NZ regulatory obligations, equipment cover, cyber risk and creator business topics.
 
 ### FAQs Page
-URL: https://influencerinsurance.co.nz/faqs/
-Frequently asked questions about influencer insurance in NZ, covering who needs it, what it costs, how the referral process works, and regulatory context.
+URL: https://www.influencerinsurance.co.nz/faqs/
+Frequently asked questions about influencer insurance in NZ.
 
 ### Locations Page
-URL: https://influencerinsurance.co.nz/locations/
+URL: https://www.influencerinsurance.co.nz/locations/
 City-specific landing page covering creator insurance in Auckland, Wellington, Christchurch, Queenstown, Hamilton, Tauranga, Dunedin and Nelson.
 
 ### About Page
-URL: https://influencerinsurance.co.nz/about/
+URL: https://www.influencerinsurance.co.nz/about/
 Information about the service, our referral model, and how we work with licensed advisers.
 
 ### Contact Page
-URL: https://influencerinsurance.co.nz/contact/
+URL: https://www.influencerinsurance.co.nz/contact/
 Contact details and enquiry form.
 
 ## Blog Articles and Guides
 
 1. Complete Guide to Influencer Insurance in NZ
-   URL: https://influencerinsurance.co.nz/blog/complete-guide-influencer-insurance-nz/
-   Overview of all insurance types relevant to NZ content creators, why they matter, and how to get cover.
+   URL: https://www.influencerinsurance.co.nz/blog/complete-guide-influencer-insurance-nz/
 
 2. NZ Influencer Fair Trading Act Guide
-   URL: https://influencerinsurance.co.nz/blog/nz-influencer-fair-trading-act-guide/
-   Detailed guide to Commerce Commission disclosure requirements, what counts as a sponsored post, and how to stay compliant.
+   URL: https://www.influencerinsurance.co.nz/blog/nz-influencer-fair-trading-act-guide/
 
 3. Equipment Insurance for Content Creators
-   URL: https://influencerinsurance.co.nz/blog/equipment-insurance-content-creators-nz/
-   What equipment is covered, how to value your kit, common claim scenarios, and how to get equipment insurance in NZ.
+   URL: https://www.influencerinsurance.co.nz/blog/equipment-insurance-content-creators-nz/
 
 4. Influencer Cyber Insurance
-   URL: https://influencerinsurance.co.nz/blog/influencer-cyber-insurance-nz/
-   Why creators are high-value targets for hackers, what cyber insurance covers, and how to protect your accounts and income.
+   URL: https://www.influencerinsurance.co.nz/blog/influencer-cyber-insurance-nz/
 
 5. Professional Indemnity for Influencers
-   URL: https://influencerinsurance.co.nz/blog/professional-indemnity-influencers-nz/
-   When PI insurance applies to creators, brand deal dispute scenarios, and why finfluencers and wellness creators face extra risk.
+   URL: https://www.influencerinsurance.co.nz/blog/professional-indemnity-influencers-nz/
 
 6. NZ Influencer Brand Deal Contracts
-   URL: https://influencerinsurance.co.nz/blog/nz-influencer-brand-deal-contracts/
-   Key contract clauses every creator should understand, indemnity provisions, and how insurance interacts with contract terms.
+   URL: https://www.influencerinsurance.co.nz/blog/nz-influencer-brand-deal-contracts/
 
 7. Public Liability for Influencer Events
-   URL: https://influencerinsurance.co.nz/blog/public-liability-influencer-events-nz/
-   Meet-and-greets, pop-ups, brand activations and workshops — when public liability cover is essential and how to get event insurance.
+   URL: https://www.influencerinsurance.co.nz/blog/public-liability-influencer-events-nz/
 
 8. NZ Influencer Market 2026
-   URL: https://influencerinsurance.co.nz/blog/nz-influencer-market-2026/
-   Overview of the NZ creator economy, platform trends, income statistics, and risk landscape for 2026.
+   URL: https://www.influencerinsurance.co.nz/blog/nz-influencer-market-2026/
 
 9. Drone Insurance for Content Creators
-   URL: https://influencerinsurance.co.nz/blog/drone-insurance-content-creators-nz/
-   CAA registration rules, drone liability risks, equipment cover for UAVs, and how to get drone insurance in NZ.
+   URL: https://www.influencerinsurance.co.nz/blog/drone-insurance-content-creators-nz/
 
 10. Influencer Income Protection Insurance
-    URL: https://influencerinsurance.co.nz/blog/influencer-income-protection-nz/
-    How income protection works for self-employed creators, what platforms / income types qualify, and the claims process.
+    URL: https://www.influencerinsurance.co.nz/blog/influencer-income-protection-nz/
 
 11. Starting a Creator Business in NZ — Checklist
-    URL: https://influencerinsurance.co.nz/blog/starting-creator-business-nz-checklist/
-    Step-by-step checklist for new NZ content creators covering business structure, tax, contracts, insurance and compliance.
+    URL: https://www.influencerinsurance.co.nz/blog/starting-creator-business-nz-checklist/
 
 12. OnlyFans Creator Insurance
-    URL: https://influencerinsurance.co.nz/blog/onlyfans-creator-insurance-nz/
-    Specific risks for subscription content creators including account hacking, privacy breaches, and content theft.
+    URL: https://www.influencerinsurance.co.nz/blog/onlyfans-creator-insurance-nz/
 
 13. Automotive & Motorsport Creator Insurance
-    URL: https://influencerinsurance.co.nz/blog/automotive-motorsport-creator-insurance-nz/
-    Cover for car review channels, track day creators, and motorsport content — liability, equipment, and specialist vehicle cover.
+    URL: https://www.influencerinsurance.co.nz/blog/automotive-motorsport-creator-insurance-nz/
 
 14. Finfluencer Insurance
-    URL: https://influencerinsurance.co.nz/blog/finfluencer-insurance-nz/
-    FMA regulatory risks for financial influencers, PI insurance for investment content creators, and compliance best practice.
+    URL: https://www.influencerinsurance.co.nz/blog/finfluencer-insurance-nz/
 
 15. Micro-Influencer Insurance
-    URL: https://influencerinsurance.co.nz/blog/micro-influencer-insurance-nz/
-    Why micro-influencers (under 50k followers) still need insurance, affordable cover options, and common misconceptions.
+    URL: https://www.influencerinsurance.co.nz/blog/micro-influencer-insurance-nz/
 
 16. Gifted Products and FTA Obligations
-    URL: https://influencerinsurance.co.nz/blog/gifted-product-fta-obligations-nz/
-    Commerce Commission rules on gifted product disclosure, affiliate links, and when gifted product reviews become regulated advertising.
+    URL: https://www.influencerinsurance.co.nz/blog/gifted-product-fta-obligations-nz/
 
 17. Food & Recipe Creator Insurance
-    URL: https://influencerinsurance.co.nz/blog/food-recipe-creator-insurance-nz/
-    Liability risks for food bloggers, allergy-related claims, commercial kitchen filming, and product liability considerations.
+    URL: https://www.influencerinsurance.co.nz/blog/food-recipe-creator-insurance-nz/
 
 18. Adventure & Outdoor Creator Insurance
-    URL: https://influencerinsurance.co.nz/blog/adventure-outdoor-creator-insurance-nz/
-    Cover for tramping, mountaineering, surfing, mountain biking, and extreme sport content creators.
+    URL: https://www.influencerinsurance.co.nz/blog/adventure-outdoor-creator-insurance-nz/
 
 19. UGC Creator Insurance
-    URL: https://influencerinsurance.co.nz/blog/ugc-creator-insurance-nz/
-    Insurance for user-generated content creators producing branded content — contract risks, IP issues, and equipment cover.
+    URL: https://www.influencerinsurance.co.nz/blog/ugc-creator-insurance-nz/
 
-20. Influencer Insurance Claims — Real Examples
-    URL: https://influencerinsurance.co.nz/blog/influencer-insurance-claims-nz/
-    Real-world claim scenarios across all coverage types, how the claims process works, and what to expect.
+20. AI-Generated Content and Insurance for NZ Creators
+    URL: https://www.influencerinsurance.co.nz/blog/ai-content-insurance-nz-creators/
+
+21. Privacy Act 2020 and NZ Content Creators
+    URL: https://www.influencerinsurance.co.nz/blog/privacy-act-2020-content-creators-nz/
+
+22. Creator Income Instability and Insurance
+    URL: https://www.influencerinsurance.co.nz/blog/creator-income-instability-insurance-nz/
+
+23. Tax Deductions for Influencer Insurance Premiums
+    URL: https://www.influencerinsurance.co.nz/blog/influencer-insurance-tax-deductions-nz/
+
+24. Influencer Insurance Claims — Real Examples
+    URL: https://www.influencerinsurance.co.nz/blog/influencer-insurance-claims-nz/
 
 ## Indicative Pricing
 
@@ -202,13 +203,13 @@ Actual premiums depend on creator type, revenue, equipment value, coverage limit
 
 ## How the Referral Process Works
 
-1. Creator submits enquiry via the quote form at https://influencerinsurance.co.nz/quote/
+1. Creator submits enquiry via the quote form at https://www.influencerinsurance.co.nz/quote/
 2. Enquiry details are transmitted securely to a licensed NZ insurance adviser
 3. Adviser reviews the creator's requirements and identifies suitable cover options
 4. Adviser contacts the creator within 1 business day with tailored options and a full disclosure statement
 5. Creator chooses whether to proceed — no obligation
 
-All advisers we work with are licensed Financial Advice Providers (FAPs) or work under a licensed FAP, regulated under the Financial Markets Conduct Act 2013.
+All advisers we work with are Registered Financial Service Providers (FSPs) operating under the Financial Markets Conduct Act 2013.
 
 ## Locations Served
 
@@ -216,12 +217,12 @@ Auckland, Wellington, Christchurch, Queenstown, Hamilton, Tauranga, Dunedin, Nel
 
 ## Contact Information
 
-- Website: https://influencerinsurance.co.nz
+- Website: https://www.influencerinsurance.co.nz
 - Email: hello@cover4you.co.nz
-- Quote form: https://influencerinsurance.co.nz/quote/
+- Quote form: https://www.influencerinsurance.co.nz/quote/
 
 ## Disclaimer and Legal
 
 This website provides general information only. It does not constitute financial advice, insurance advice, or legal advice. All insurance recommendations and quotes are provided by independently licensed NZ Financial Advice Providers. Indicative pricing should not be relied upon for budgeting purposes without obtaining a personalised quote. Coverage terms, conditions, exclusions and pricing vary by insurer and individual circumstances.
 
-influencerinsurance.co.nz is not regulated under the Financial Markets Conduct Act 2013. The advisers we refer enquiries to hold their own FAP licences and are individually responsible for the advice they provide.
+influencerinsurance.co.nz is not regulated under the Financial Markets Conduct Act 2013. The advisers we refer enquiries to are Registered Financial Service Providers holding their own FAP licences and are individually responsible for the advice they provide.

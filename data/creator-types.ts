@@ -573,4 +573,250 @@ export const creatorTypes = [
       },
     ],
   },
+  {
+    slug: "real-estate-property-creators",
+    name: "Real Estate & Property Creators",
+    icon: "🏠",
+    description: "Property content creators — from home renovation vloggers and interior styling influencers to real estate agents who've built significant social followings — navigate a specific mix of risks. Filming at client properties, endorsing property products, and providing property-adjacent advice all create liability exposure that standard creator insurance must address.",
+    keyFacts: [
+      "Filming at client or listed properties creates liability if injury occurs on site",
+      "Property and interior product endorsements can trigger Fair Trading Act scrutiny",
+      "Real estate agents with content brands carry separate professional obligations under the Real Estate Agents Act 2008",
+      "Drone use at properties creates both equipment risk and airspace liability",
+    ],
+    coverageNotes: "Public liability is the priority for property creators who film at third-party homes and build sites. Professional indemnity is critical if your content provides renovation cost estimates, interior design recommendations, or property market commentary. Equipment cover for drones and camera kit rounds out a solid programme.",
+    risks: [
+      {
+        title: "Injury at a client property during filming",
+        desc: "You're filming a renovation reveal at a client's home and a crew member trips on an exposed cable run. The client's home insurer won't cover injuries to contractors. Your public liability policy responds.",
+      },
+      {
+        title: "Product endorsement complaint under the Fair Trading Act",
+        desc: "You recommend a specific flooring product as part of a sponsored renovation series. A follower installs it and experiences significant issues, claiming your endorsement was misleading. Professional indemnity covers your legal defence.",
+      },
+      {
+        title: "Drone footage at restricted airspace near airport",
+        desc: "Aerial footage for a property listing ends up within a restricted airspace zone. Aviation authority investigation follows. Equipment cover and liability insurance both respond depending on the nature of the resulting claim.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Do property creators need different insurance from lifestyle influencers?",
+        a: "Largely the same policies apply, but the risk profile differs. Filming at third-party properties significantly increases public liability exposure — property creators should ensure their policy covers filming at client premises, not just their own studio. If your content includes property market commentary or renovation budgeting advice, professional indemnity is also more important than for lifestyle content.",
+      },
+      {
+        q: "Am I covered if I use a drone for property footage?",
+        a: "Equipment cover will protect your drone against damage or theft. Drone operations also create airspace and third-party liability exposure — check that your public liability policy specifically covers drone-related incidents. Drones over a certain weight require CAA registration in New Zealand.",
+      },
+      {
+        q: "I'm a real estate agent who creates content — do I need separate insurance?",
+        a: "Real estate agents are licensed under the Real Estate Agents Act 2008 and typically carry professional indemnity through their agency or REAA obligations. However, content you create outside the direct scope of a licensed transaction — property market commentary, renovation guides, product endorsements — may not be covered by your agency's PI policy. A specialist creator insurance adviser can assess the gap.",
+      },
+    ],
+  },
+  {
+    slug: "parenting-family-creators",
+    name: "Parenting & Family Creators",
+    icon: "👨‍👩‍👧",
+    description: "Parenting bloggers, family YouTubers, and mummy and daddy content creators build engaged communities around family life — but they face specific risks around child content, product endorsements for family and children's products, and event appearances with family. The Commerce Commission pays close attention to advertising disclosures in family and children's content categories.",
+    keyFacts: [
+      "Children's product endorsements carry heightened Commerce Commission and Advertising Standards scrutiny",
+      "Family brand partnerships increasingly require public liability documentation",
+      "Child content creators have specific Privacy Act obligations around data collected from or about minors",
+      "Online safety and privacy risks for family creators are higher than average",
+    ],
+    coverageNotes: "Professional indemnity and public liability are the priority covers for parenting creators. Public liability matters for brand events and activations — particularly those involving children. PI covers you if a brand deal dispute arises from a children's product endorsement. Cyber insurance is increasingly important given the sensitive nature of family content and the data collected.",
+    risks: [
+      {
+        title: "Children's product endorsement complaint",
+        desc: "You feature a children's supplement or wellness product in a sponsored video series. A consumer advocacy group files a formal complaint with the Advertising Standards Authority, alleging the endorsement was misleading about health benefits. Professional indemnity covers your legal representation through the complaint process.",
+      },
+      {
+        title: "Brand activation injury involving children",
+        desc: "You're the featured creator at a brand's family event and a child attendee is injured on branded play equipment in your designated content zone. Public liability covers the resulting claim.",
+      },
+      {
+        title: "Account compromise exposing family content",
+        desc: "Your family content account is compromised and private family photos are exposed or your account is used for fraudulent promotions. Cyber insurance covers the incident response team and account recovery costs.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Is there anything special about insurance for family content creators?",
+        a: "The core insurance products are the same as for other creators, but the risk profile is heightened in a few areas. Brand events involving children create greater public liability exposure. Children's product endorsements attract more regulatory scrutiny under ASA guidelines and the Fair Trading Act. And privacy risks are more sensitive when your content involves children — cyber and privacy cover is worth prioritising.",
+      },
+      {
+        q: "Do I need to disclose sponsored content if my children appear in it?",
+        a: "Yes — the disclosure obligation under the Fair Trading Act and the ASA Code applies regardless of whether your content features children. The Advertising Standards Authority specifically monitors family and children's content categories. Professional indemnity insurance covers your legal costs if a disclosure complaint is made against you.",
+      },
+      {
+        q: "What insurance does a parenting blogger typically start with?",
+        a: "Most parenting creators start with professional indemnity (for brand deal and disclosure disputes) and public liability (for events and brand activations). If you run a parenting community that collects email addresses or member data, adding cyber and privacy cover is a sensible next step.",
+      },
+    ],
+  },
+  {
+    slug: "pet-animal-creators",
+    name: "Pet & Animal Creators",
+    icon: "🐾",
+    description: "Pet influencers and animal content creators — from dog lifestyle accounts and cat video channels to exotic animal educators and equestrian creators — build passionate communities and significant brand partnership revenue. Pet product endorsements, animal events, and filming in public spaces with animals all create specific insurance considerations.",
+    keyFacts: [
+      "Pet product endorsements (food, supplements, accessories) are increasingly scrutinised by the Commerce Commission",
+      "Filming with animals in public spaces creates both public liability and animal behaviour liability",
+      "Brand partnerships with pet food companies often require PI cover for health or safety product claims",
+      "Animal injury or escape during filmed content creates third-party liability exposure",
+    ],
+    coverageNotes: "Public liability is essential for pet creators who work with animals in public spaces, at events, or with other people's animals. Professional indemnity covers brand deal disputes and any content that makes claims about pet health products. Equipment cover protects camera kit. Cyber cover is worth adding if you run a membership community or collect subscriber data.",
+    risks: [
+      {
+        title: "Dog bites a bystander during a public filming session",
+        desc: "You're filming a lifestyle video in a public park and your dog unexpectedly bites a passing jogger. Even with a normally well-behaved dog, you're personally liable for the injury. Public liability covers the claim and any legal costs.",
+      },
+      {
+        title: "Pet supplement brand deal dispute",
+        desc: "A pet supplement company claims the review content you created didn't meet their contractual requirements and refuses to pay your invoice. They also claim your content contained incorrect information about their product. Professional indemnity covers the dispute.",
+      },
+      {
+        title: "Animal escapes during a filmed brand event",
+        desc: "You're appearing at a pet brand's trade show event with your trained parrot and the bird escapes, causing a minor incident in the exhibition hall. Public liability covers any resulting third-party claims.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Do I need insurance as a pet influencer?",
+        a: "Any creator who works with animals in public spaces should have public liability insurance — animal behaviour is inherently unpredictable and you're personally liable for any injury your animal causes. If you do brand partnerships with pet food, supplement, or accessory companies, professional indemnity is also important — product-related content creates disclosure and quality dispute risk.",
+      },
+      {
+        q: "Does public liability cover incidents involving my pets?",
+        a: "It depends on the policy. Some public liability policies specifically exclude animal-related incidents. When arranging cover as a pet creator, make sure the policy explicitly covers animal-related liability, including injury caused by your animals to third parties.",
+      },
+      {
+        q: "What if I feature other people's animals in my content?",
+        a: "Using other people's animals in your content can create additional liability exposure — if the animal causes an incident during your filming, questions about responsibility may arise. Ensure your public liability cover is in place and discuss the specifics with a licensed broker who understands creator content.",
+      },
+    ],
+  },
+  {
+    slug: "music-entertainment-creators",
+    name: "Music & Entertainment Creators",
+    icon: "🎵",
+    description: "Musicians, DJs, bands, and entertainment creators who build audiences on streaming platforms and social media face a distinctive mix of copyright exposure, live performance liability, and equipment risk. Covering original music releases, DJ sets, live-streamed performances, and touring gear requires an insurance approach that understands the music industry.",
+    keyFacts: [
+      "Copyright disputes over samples, covers, and original releases are a real and growing risk for music creators",
+      "Live performance and touring equipment is high-value and must be insured as a business asset",
+      "Filming live performances creates both venue liability and third-party copyright exposure",
+      "Music content brand partnerships carry the same FTA disclosure obligations as any other sponsored content",
+    ],
+    coverageNotes: "Equipment cover is typically the first priority for music creators — instruments, PA systems, DJ gear, and recording equipment are high-value and easy to damage or lose. Public liability covers live performances and venue obligations. Professional indemnity covers copyright disputes and brand deal issues. Cyber cover is worth adding if you sell music, merchandise, or digital downloads directly.",
+    risks: [
+      {
+        title: "Touring equipment stolen from a van",
+        desc: "A break-in at a venue car park results in a DJ controller, laptop, and audio interface being stolen from your van. Equipment cover provides replacement at current market value.",
+      },
+      {
+        title: "Copyright claim over a sample in a released track",
+        desc: "A music publisher claims a sample in your independently released track infringes their copyright and demands removal and damages. Professional indemnity covers your legal response.",
+      },
+      {
+        title: "Audience injury at a live-streamed performance event",
+        desc: "A fan attending a ticketed live-stream performance event is injured when they trip over a cable near the front-of-house mixing position. Public liability covers the claim.",
+      },
+    ],
+    faqs: [
+      {
+        q: "What insurance do musicians most commonly need?",
+        a: "Equipment cover is usually the first priority — instruments and production gear are expensive to replace and frequently moved between venues and studios. Public liability is essential for anyone performing at live events or ticketed shows. If you release original music or license your content, professional indemnity covers intellectual property disputes.",
+      },
+      {
+        q: "Does equipment cover include instruments at live venues?",
+        a: "It depends on the policy. Some equipment policies only cover gear in transit or in storage, not while it's set up and in use at a venue. When arranging cover, confirm the policy covers equipment while in use at live performances — not just while in transit.",
+      },
+      {
+        q: "I'm a DJ who plays at clubs — do I need event-specific insurance?",
+        a: "For regular paid gigs at venues, public liability is the most important cover — venue owners often require it as a condition of booking. Equipment cover for your controller, laptop, and peripherals is also essential. A single set at a high-profile venue can expose you to liability beyond what most venues' own policies will cover for performer-caused incidents.",
+      },
+    ],
+  },
+  {
+    slug: "education-elearning-creators",
+    name: "Education & eLearning Creators",
+    icon: "📚",
+    description: "Online course creators, educational YouTubers, tutors, and eLearning content developers face professional liability risk when their educational content is relied upon by students and learners making real decisions. Whether you teach business skills, coding, language learning, or professional certifications, professional indemnity is the core insurance need.",
+    keyFacts: [
+      "Students who rely on educational content for professional or financial decisions can claim for losses if the content is inaccurate",
+      "Course platform revenue and subscriber income represents significant ongoing business value",
+      "Brand partnerships for educational tools and software carry the same FTA disclosure obligations",
+      "Online course businesses that collect student data have Privacy Act obligations",
+    ],
+    coverageNotes: "Professional indemnity is the priority for education creators — any content that students use to make decisions (career, financial, technical, professional) creates a claim risk if the content is later found to be inaccurate or misleading. Cyber cover is important if you run a membership platform or sell courses directly through your own site. Equipment cover protects your recording studio setup.",
+    risks: [
+      {
+        title: "Course content contains outdated technical information",
+        desc: "An online coding course you produced two years ago still ranks highly but contains outdated security practices. A student implements the practices and suffers a data breach in their own project. They claim your course content contributed to their loss. Professional indemnity covers your legal defence.",
+      },
+      {
+        title: "Membership platform data breach exposes student records",
+        desc: "Your course platform is compromised and student personal data — including payment details — is exposed. Cyber insurance covers notification costs, legal costs, and credit monitoring for affected students.",
+      },
+      {
+        title: "Brand partnership dispute over educational tool endorsement",
+        desc: "A software company claims you didn't disclose your sponsored review relationship with their platform and seeks indemnification for a consumer complaint. Professional indemnity covers your defence.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Do education content creators need professional indemnity insurance?",
+        a: "Yes — if your courses, tutorials, or educational content are used by students to make professional or financial decisions, you carry liability risk if that content turns out to be inaccurate. Professional indemnity covers your legal costs if a student claims they suffered a loss as a result of relying on your content.",
+      },
+      {
+        q: "What if I teach through a third-party platform like Udemy or Coursera?",
+        a: "Third-party platforms typically have their own terms of service that limit their liability — but they don't indemnify you as a course creator for claims arising from the content you publish. Your own professional indemnity policy covers you regardless of which platform distributes your content.",
+      },
+      {
+        q: "I run an online business coaching programme — what insurance do I need?",
+        a: "Business coaching content carries higher professional indemnity risk than general educational content because students are applying your advice to real business decisions. PI is essential. If you collect client or student payment data through your own systems, cyber and privacy cover is also important.",
+      },
+    ],
+  },
+  {
+    slug: "sustainable-eco-creators",
+    name: "Sustainable Living & Eco Creators",
+    icon: "🌿",
+    description: "Sustainability influencers, zero-waste creators, eco-lifestyle bloggers, and environmental advocates build audiences around values-led content. Brand partnerships in the sustainable products space carry specific risks: greenwashing claims, product performance disputes, and event-based liability all require appropriate insurance coverage.",
+    keyFacts: [
+      "Greenwashing claims against sustainability brands — and the creators who endorse them — are an increasing focus of the Commerce Commission",
+      "Zero-waste and eco-product endorsements must meet the same FTA disclosure standards as any other category",
+      "Sustainability events and community gatherings create public liability exposure",
+      "Advocacy content that makes factual claims about companies or products carries defamation risk",
+    ],
+    coverageNotes: "Professional indemnity is the priority for sustainability creators who endorse eco-products or make factual claims about environmental practices. Public liability covers events and community gatherings. Cyber cover is worth adding if you run a membership community or sell digital products. If your content includes advocacy that names specific companies or products, discuss legal exposure with a specialist broker.",
+    risks: [
+      {
+        title: "Greenwashing complaint against an endorsed product",
+        desc: "A consumer advocacy organisation files a formal complaint with the Commerce Commission, alleging that a 'biodegradable' product you endorsed doesn't meet its claimed environmental credentials. The complaint names both the brand and featured creators. Professional indemnity covers your legal representation.",
+      },
+      {
+        title: "Zero-waste workshop injury claim",
+        desc: "You run a community zero-waste workshop at a local hall. An attendee slips on a wet patch near the natural dyeing station and injures their wrist. Public liability covers the claim.",
+      },
+      {
+        title: "Content claiming a brand uses unethical practices",
+        desc: "A brand contacts you claiming that content you published about their supply chain practices is defamatory and threatens legal action. Professional indemnity covers your legal defence costs.",
+      },
+    ],
+    faqs: [
+      {
+        q: "What is greenwashing and why does it matter for creator insurance?",
+        a: "Greenwashing refers to misleading claims about the environmental credentials of a product or practice. The Commerce Commission and the Advertising Standards Authority both have the ability to investigate and sanction misleading environmental claims. If you endorse an eco-product that turns out not to meet its environmental claims, you may face regulatory scrutiny alongside the brand. Professional indemnity covers your legal costs in responding.",
+      },
+      {
+        q: "I run community sustainability events — do I need event insurance?",
+        a: "Yes — any organised event creates public liability exposure. If you're organising a community gathering, workshop, or market at a third-party venue, public liability insurance is essential. Some venues require it as a booking condition. Even casual workshops with small numbers of attendees can generate claims if an injury occurs.",
+      },
+      {
+        q: "My content is advocacy-based, not commercial — do I still need insurance?",
+        a: "Advocacy content that makes factual claims about specific companies or products creates defamation and legal risk regardless of whether it's monetised. Professional indemnity covers your legal defence costs if a company takes exception to your content and pursues legal action. Even well-researched, factually accurate content can require expensive legal defence.",
+      },
+    ],
+  },
 ]

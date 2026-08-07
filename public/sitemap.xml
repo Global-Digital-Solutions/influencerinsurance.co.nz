@@ -2,61 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Core pages -->
-  <url><loc>https://influencerinsurance.co.nz/</loc><lastmod>2026-05-10</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/quote/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/faqs/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/locations/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/about/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/contact/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/privacy/</loc><lastmod>2026-05-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/terms/</loc><lastmod>2026-05-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/disclaimer/</loc><lastmod>2026-05-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/coverage/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/coverage/public-liability/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/coverage/equipment/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/coverage/cyber/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/coverage/professional-indemnity/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
-  <!-- Coverage hub + 4 coverage type pages -->
-  <url><loc>https://influencerinsurance.co.nz/coverage/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/coverage/public-liability/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/coverage/equipment-gear/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/coverage/cyber-privacy/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/coverage/professional-indemnity/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Creator type pages -->
+  <url><loc>https://www.influencerinsurance.co.nz/creators/instagram-influencers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/youtube-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/tiktok-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/podcasters/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/travel-influencers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/fitness-wellness-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/gaming-streamers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/fashion-beauty-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/adult-content-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/automotive-motorsport-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/food-recipe-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/financial-influencers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/outdoor-adventure-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/ugc-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/real-estate-property-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/parenting-family-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/pet-animal-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/music-entertainment-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/education-elearning-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/creators/sustainable-eco-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Creator types hub + 14 creator type pages -->
-  <url><loc>https://influencerinsurance.co.nz/creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/instagram-influencers/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/youtube-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/tiktok-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/podcasters/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/travel-influencers/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/fitness-wellness-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/gaming-streamers/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/fashion-beauty-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/adult-content-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/automotive-motorsport-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/food-recipe-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/financial-influencers/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/outdoor-adventure-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/creators/ugc-creators/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Blog -->
+  <url><loc>https://www.influencerinsurance.co.nz/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/complete-guide-influencer-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/nz-influencer-fair-trading-act-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/equipment-insurance-content-creators-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/influencer-cyber-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/professional-indemnity-influencers-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/nz-influencer-brand-deal-contracts/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/public-liability-influencer-events-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/nz-influencer-market-2026/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/drone-insurance-content-creators-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/influencer-income-protection-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/starting-creator-business-nz-checklist/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/onlyfans-creator-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/automotive-motorsport-creator-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/finfluencer-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/micro-influencer-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/gifted-product-fta-obligations-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/food-recipe-creator-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/adventure-outdoor-creator-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/ugc-creator-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/ai-content-insurance-nz-creators/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/privacy-act-2020-content-creators-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/creator-income-instability-insurance-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/influencer-insurance-tax-deductions-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/blog/influencer-insurance-claims-nz/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Blog hub + 20 blog posts -->
-  <url><loc>https://influencerinsurance.co.nz/blog/</loc><lastmod>2026-05-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/complete-guide-influencer-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/nz-influencer-fair-trading-act-guide/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/equipment-insurance-content-creators-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/influencer-cyber-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/professional-indemnity-influencers-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/nz-influencer-brand-deal-contracts/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/public-liability-influencer-events-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/nz-influencer-market-2026/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/drone-insurance-content-creators-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/influencer-income-protection-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/starting-creator-business-nz-checklist/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/influencer-insurance-claims-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/onlyfans-creator-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/automotive-motorsport-creator-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/finfluencer-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/micro-influencer-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/gifted-product-fta-obligations-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/food-recipe-creator-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/adventure-outdoor-creator-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://influencerinsurance.co.nz/blog/ugc-creator-insurance-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Utility pages -->
+  <url><loc>https://www.influencerinsurance.co.nz/faqs/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/quote/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/locations/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/contact/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.influencerinsurance.co.nz/disclaimer/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 
 </urlset>

@@ -6,7 +6,7 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "Get a Creator Insurance Quote | Influencer Insurance",
-  description: "Get a free influencer insurance quote from a licensed broker. Public liability, equipment, cyber and professional indemnity cover for content creators.",
+  description: "Get an influencer insurance quote from a licensed broker. Public liability, equipment, cyber and professional indemnity cover for content creators.",
   alternates: { canonical: siteConfig.url + "/quote/" },
 }
 

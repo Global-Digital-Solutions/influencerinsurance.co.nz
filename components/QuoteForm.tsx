@@ -148,14 +148,15 @@ export default function QuoteForm({ variant = "full" }: QuoteFormProps) {
       </div>
 
       <div>
-        <label htmlFor="phone" className={labelClass}>Phone Number</label>
+        <label htmlFor="phone" className={labelClass}>Phone Number *</label>
         <input
           type="tel"
           id="phone"
           name="phone"
           value={formData.phone}
           onChange={handleChange}
-          placeholder="Your NZ phone number"
+          placeholder="021 XXX XXXX"
+          required
           className={inputClass}
         />
       </div>
@@ -186,7 +187,7 @@ export default function QuoteForm({ variant = "full" }: QuoteFormProps) {
         disabled={status === "sending"}
         className="w-full bg-gradient-brand text-white py-3 px-6 rounded-lg font-semibold hover:opacity-90 transition-opacity disabled:opacity-60 shadow-lg text-sm"
       >
-        {status === "sending" ? "Sending..." : "Get My Free Quote"}
+        {status === "sending" ? "Sending..." : "Get a Quote"}
       </button>
 
       <div className="flex flex-wrap gap-1.5 justify-center pt-1">
