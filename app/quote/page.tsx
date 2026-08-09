@@ -48,7 +48,7 @@ export default function QuotePage() {
       {/* Hero */}
       <section className="relative text-white overflow-hidden min-h-[360px] flex flex-col justify-center">
         <div className="absolute inset-0">
-          <Image src="/images/creator-desk.png" alt="Content creator" fill className="object-cover object-center" priority />
+          <Image src="/images/creator-desk.jpg" alt="Content creator" fill className="object-cover object-center" priority />
         </div>
         <div className="absolute inset-0 bg-slate-950/80" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center w-full">

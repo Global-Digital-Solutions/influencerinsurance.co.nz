@@ -21,10 +21,10 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 
 // Distinct young-creator images per coverage type
 const heroImages: Record<string, string> = {
-  "public-liability":        "/images/creator-event.png",
-  "equipment-gear":          "/images/creator-travel.png",
-  "cyber-privacy":           "/images/creator-desk.png",
-  "professional-indemnity":  "/images/creator-beauty.png",
+  "public-liability":        "/images/creator-event.jpg",
+  "equipment-gear":          "/images/creator-travel.jpg",
+  "cyber-privacy":           "/images/creator-desk.jpg",
+  "professional-indemnity":  "/images/creator-beauty.jpg",
 }
 
 const heroOverlays: Record<string, string> = {

@@ -23,20 +23,20 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 
 // Hero image mapping — 6 images shared across 14 creator types
 const heroImages: Record<string, string> = {
-  "instagram-influencers":          "/images/creator-beauty.png",
-  "youtube-creators":               "/images/creator-studio.png",
-  "tiktok-creators":                "/images/creator-beauty.png",
-  "podcasters":                     "/images/creator-desk.png",
-  "travel-influencers":             "/images/creator-travel.png",
-  "fitness-wellness-creators":      "/images/creator-event.png",
-  "gaming-streamers":               "/images/creator-desk.png",
-  "fashion-beauty-creators":        "/images/creator-beauty.png",
-  "adult-content-creators":         "/images/creator-studio.png",
-  "automotive-motorsport-creators": "/images/creator-auto.png",
-  "food-recipe-creators":           "/images/creator-event.png",
-  "financial-influencers":          "/images/creator-desk.png",
-  "outdoor-adventure-creators":     "/images/creator-travel.png",
-  "ugc-creators":                   "/images/creator-studio.png",
+  "instagram-influencers":          "/images/creator-beauty.jpg",
+  "youtube-creators":               "/images/creator-studio.jpg",
+  "tiktok-creators":                "/images/creator-beauty.jpg",
+  "podcasters":                     "/images/creator-desk.jpg",
+  "travel-influencers":             "/images/creator-travel.jpg",
+  "fitness-wellness-creators":      "/images/creator-event.jpg",
+  "gaming-streamers":               "/images/creator-desk.jpg",
+  "fashion-beauty-creators":        "/images/creator-beauty.jpg",
+  "adult-content-creators":         "/images/creator-studio.jpg",
+  "automotive-motorsport-creators": "/images/creator-auto.jpg",
+  "food-recipe-creators":           "/images/creator-event.jpg",
+  "financial-influencers":          "/images/creator-desk.jpg",
+  "outdoor-adventure-creators":     "/images/creator-travel.jpg",
+  "ugc-creators":                   "/images/creator-studio.jpg",
 }
 
 // Map creator slugs to related blog post slugs for internal linking
@@ -64,7 +64,7 @@ export default function CreatorSlugPage({ params }: { params: { slug: string } }
   const others = creatorTypes.filter((c) => c.slug !== creator.slug).slice(0, 4)
   const relatedSlugs = relatedBlogMap[creator.slug] || []
   const relatedPosts = blogPosts.filter((p) => relatedSlugs.includes(p.slug))
-  const heroImg = heroImages[creator.slug] || "/images/creator-studio.png"
+  const heroImg = heroImages[creator.slug] || "/images/creator-studio.jpg"
 
   const pageUrl = `https://influencerinsurance.co.nz/creators/${creator.slug}/`
 

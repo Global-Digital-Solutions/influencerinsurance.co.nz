@@ -12,10 +12,10 @@ export const metadata: Metadata = {
 }
 
 const coverImages = [
-  "/images/creator-event.png",    // public-liability
-  "/images/creator-travel.png",   // equipment-gear
-  "/images/creator-desk.png",     // cyber-privacy
-  "/images/creator-beauty.png",   // professional-indemnity
+  "/images/creator-event.jpg",    // public-liability
+  "/images/creator-travel.jpg",   // equipment-gear
+  "/images/creator-desk.jpg",     // cyber-privacy
+  "/images/creator-beauty.jpg",   // professional-indemnity
 ]
 
 const accentColors = [
@@ -31,7 +31,7 @@ export default function CoveragePage() {
       {/* Hero */}
       <section className="relative text-white overflow-hidden min-h-[420px] sm:min-h-[500px] flex flex-col justify-center">
         <div className="absolute inset-0">
-          <Image src="/images/creator-event.png" alt="Content creator at brand event" fill className="object-cover object-center" priority />
+          <Image src="/images/creator-event.jpg" alt="Content creator at brand event" fill className="object-cover object-center" priority />
         </div>
         <div className="absolute inset-0 bg-slate-950/78" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center w-full">

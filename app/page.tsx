@@ -69,7 +69,7 @@ export default function HomePage() {
       <section className="relative text-white overflow-hidden min-h-[620px] flex flex-col justify-center">
         <div className="absolute inset-0">
           <Image
-            src="/images/creator-studio.png"
+            src="/images/creator-studio.jpg"
             alt="Content creator filming"
             fill
             className="object-cover object-center"
@@ -180,8 +180,8 @@ export default function HomePage() {
       <section className="relative py-20 overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/creator-desk.png"
-            alt=""
+            src="/images/creator-desk.jpg"
+            alt="Content creator at desk working on insurance documentation"
             className="w-full h-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-slate-950/82" />
@@ -281,8 +281,8 @@ export default function HomePage() {
       <section className="relative py-20 overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/creator-auto.png"
-            alt=""
+            src="/images/creator-auto.jpg"
+            alt="Content creator filming with professional camera equipment"
             className="w-full h-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-slate-950/85" />
