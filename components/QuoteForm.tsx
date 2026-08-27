@@ -150,7 +150,7 @@ export default function QuoteForm({ variant = "full" }: QuoteFormProps) {
       <div>
         <label htmlFor="phone" className={labelClass}>Phone Number *</label>
         <input
-          type="tel"
+          type="tel" pattern="[+]?[0-9\s\-().]{6,}" title="Please enter a valid phone number" minLength={6}
           id="phone"
           name="phone"
           value={formData.phone}
