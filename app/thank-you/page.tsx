@@ -1,4 +1,5 @@
 import Link from "next/link"
+import LeadEvent from "@/components/LeadEvent"
 import Image from "next/image"
 import { siteConfig } from "../../data/site-config"
 import type { Metadata } from "next"
@@ -41,6 +42,7 @@ const relatedLinks = [
 export default function ThankYouPage() {
   return (
     <>
+      <LeadEvent variant="quote_form" />
       {/* Hero */}
       <section className="relative text-white overflow-hidden min-h-[380px] flex flex-col justify-center">
         <div className="absolute inset-0">
