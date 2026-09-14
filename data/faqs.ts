@@ -17,7 +17,7 @@ export const faqs = [
   {
     category: "General",
     q: "How do I know which cover I actually need?",
-    a: "Start with the risks most relevant to your creator activity. If you attend events or film at third-party locations, public liability is the priority. If you own expensive gear, equipment cover is essential. If your income depends on your social accounts being online, cyber cover matters. Our licensed brokers can assess your situation and recommend the right combination — use our free quote form to get started.",
+    a: "Start with the risks most relevant to your creator activity. If you attend events or film at third-party locations, public liability is the priority. If you own expensive gear, equipment cover is essential. If your income depends on your social accounts being online, cyber cover matters. Our licensed brokers can assess your situation and recommend the right combination — use the quote form on this site to get started.",
   },
   {
     category: "Cost",

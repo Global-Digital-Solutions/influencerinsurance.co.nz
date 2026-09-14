@@ -1,5 +1,5 @@
 # Influencer Insurance — influencerinsurance.co.nz
-# Last updated: 2026-08-07
+# Last updated: 2026-09-14
 # Format: llms.txt v1 (https://llmstxt.org)
 
 > Influencer Insurance is New Zealand's specialist insurance referral service for content creators, social media influencers, and digital entrepreneurs. We connect creators with licensed NZ insurance advisers and brokers who understand the unique risks of the creator economy.
@@ -188,6 +188,12 @@ Contact details and enquiry form.
 
 24. Influencer Insurance Claims — Real Examples
     URL: https://www.influencerinsurance.co.nz/blog/influencer-insurance-claims-nz/
+
+25. Insurance for Gaming Streamers — Twitch and YouTube Creators
+    URL: https://www.influencerinsurance.co.nz/blog/gaming-streamer-insurance-nz/
+
+26. Filming Overseas — Insurance Gaps Travel Creators Miss
+    URL: https://www.influencerinsurance.co.nz/blog/travel-creator-overseas-filming-insurance-nz/
 
 ## Indicative Pricing
 
