@@ -97,7 +97,7 @@ export default function HomePage() {
                   href="/quote/"
                   className="bg-white text-violet-700 px-8 py-4 rounded-xl font-bold hover:bg-purple-50 transition-colors shadow-xl text-center"
                 >
-                  Get My Free Quote
+                  Get a Quote
                 </Link>
                 <Link
                   href="/coverage/"

@@ -142,7 +142,7 @@ export default function QuotePage() {
                 <div className="bg-gradient-to-r from-violet-600 to-purple-700 px-8 py-5">
                   <div className="flex items-center justify-between">
                     <div>
-                      <h2 className="text-xl font-extrabold text-white">Get Your Free Quote</h2>
+                      <h2 className="text-xl font-extrabold text-white">Get a Quote</h2>
                       <p className="text-purple-200 text-sm mt-0.5">No obligation · No spam · Just expert advice</p>
                     </div>
                     <div className="bg-white/20 rounded-full px-3 py-1 text-white text-xs font-bold border border-white/30">

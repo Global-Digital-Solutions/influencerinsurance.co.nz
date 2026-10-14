@@ -57,7 +57,7 @@ export default function AboutPage() {
 
           <div className="mt-10 text-center">
             <Link href="/quote/" className="inline-block bg-gradient-brand text-white px-10 py-4 rounded-xl font-bold hover:opacity-90 transition-opacity shadow-lg">
-              Get Your Free Quote
+              Get a Quote
             </Link>
           </div>
         </div>

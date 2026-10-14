@@ -5,6 +5,28 @@ import QuoteForm from "../../../components/QuoteForm"
 import { blogPosts } from "../../../data/blog-posts"
 import { siteConfig } from "../../../data/site-config"
 import type { Metadata } from "next"
+import type { ReactNode } from "react"
+
+// Renders [text](url) markdown-style links inside article paragraphs.
+function renderInline(text: string): ReactNode[] {
+  const parts: ReactNode[] = []
+  const re = /\[([^\]]+)\]\(([^)\s]+)\)/g
+  let last = 0
+  let m: RegExpExecArray | null
+  let k = 0
+  while ((m = re.exec(text)) !== null) {
+    if (m.index > last) parts.push(text.slice(last, m.index))
+    const [, label, href] = m
+    if (href.startsWith("/")) {
+      parts.push(<Link key={k++} href={href} className="text-purple-700 underline hover:text-purple-900">{label}</Link>)
+    } else {
+      parts.push(<a key={k++} href={href} target="_blank" rel="noopener noreferrer" className="text-purple-700 underline hover:text-purple-900">{label}</a>)
+    }
+    last = m.index + m[0].length
+  }
+  if (last < text.length) parts.push(text.slice(last))
+  return parts
+}
 
 export function generateStaticParams() {
   return blogPosts.map((p) => ({ slug: p.slug }))
@@ -38,6 +60,7 @@ export default function BlogSlugPage({ params }: { params: { slug: string } }) {
     headline: post.title,
     description: post.excerpt,
     datePublished: post.date,
+    dateModified: post.updated ?? post.date,
     image: post.image.startsWith("/") ? `https://influencerinsurance.co.nz${post.image}` : post.image,
     author: {
       "@type": "Organization",
@@ -76,6 +99,12 @@ export default function BlogSlugPage({ params }: { params: { slug: string } }) {
           <h1 className="text-3xl sm:text-4xl font-extrabold mb-4">{post.title}</h1>
           <div className="flex items-center gap-4 text-purple-200 text-sm">
             <span>{post.date}</span>
+            {post.updated && (
+              <>
+                <span>·</span>
+                <span>Updated {post.updated}</span>
+              </>
+            )}
             <span>·</span>
             <span>{post.readTime}</span>
             <span>·</span>
@@ -94,7 +123,7 @@ export default function BlogSlugPage({ params }: { params: { slug: string } }) {
               </div>
               <div className="prose prose-gray max-w-none">
                 {post.body.split("\n\n").map((para, i) => (
-                  <p key={i} className="text-gray-700 leading-relaxed mb-4">{para}</p>
+                  <p key={i} className="text-gray-700 leading-relaxed mb-4">{renderInline(para)}</p>
                 ))}
               </div>
 
@@ -103,7 +132,7 @@ export default function BlogSlugPage({ params }: { params: { slug: string } }) {
                 <h3 className="text-lg font-bold text-gray-900 mb-2">Ready to protect your creator business?</h3>
                 <p className="text-gray-600 text-sm mb-4">Connect with a licensed insurance adviser for a personalised quote.</p>
                 <Link href="/quote/" className="inline-block bg-gradient-brand text-white px-6 py-3 rounded-xl font-semibold hover:opacity-90 transition-opacity text-sm">
-                  Get My Free Quote
+                  Get a Quote
                 </Link>
               </div>
 
